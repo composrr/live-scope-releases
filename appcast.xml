@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Live Scope</title>
+    <link>https://raw.githubusercontent.com/composrr/live-scope-releases/main/appcast.xml</link>
+    <description>Live Scope updates</description>
+    <language>en</language>
+    <!-- ITEMS (newest first; scripts/release.sh inserts below this line) -->
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Mon, 23 Nov 2026 02:07:22 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Live Scope 0.1.0</h2>]]></description>
+      <enclosure url="https://github.com/composrr/live-scope-releases/releases/download/v0.1.0/Live-Scope-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="rAZ7eWLT8DB9Z0r1amIyOQ3/2Ms6FVoPM5JR6yiPUyGDKsXXeaaLU7wSOnO4Heq1SzHShO5wPbcLZo1/FpVJAw==" length="4045863" />
+    </item>
+  </channel>
+</rss>
